@@ -1,0 +1,5 @@
+# NihongoLearning .gitignore
+
+/server/node_modules
+
+.idea
